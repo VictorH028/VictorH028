@@ -42,10 +42,16 @@
 </div>
 
 ![linea](.img/linea.gif)
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorH028&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+<!--<div align="center">-->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />-->
+<!--</div>-->
+<!---->
+<!---->
+
 
 <div  id="header" align="center">
   <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  sizes="(min-width: 600px) 200px, 50vw" />

@@ -18,30 +18,14 @@
 <!---->
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
 </div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 
 ![linea](.img/linea.gif)
 
 <div align="center">
   <a href="Aaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Aaaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="Aaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -51,10 +35,7 @@
   </a>
   <a href="Aaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="Aaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+  </a> 
   <a href="Aaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
@@ -66,6 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-<div align="center">
-  <img src="./.img/a.gif" alt="Fuego gif" style="width:1128px;height:120px;">
+<div  id="header" align="center">
+  <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
 </div>

@@ -1,18 +1,38 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=500&lines=DemonHunter" 
-  alt="Typing SVG" />
+<!--<div align="center">-->
+<!--  <a href="https://git.io/typing-svg">-->
+<!--  <img -->
+<!--    src="https://readme-typing-svg.demolab.com?font=Matemasie&size=50&pause=1000&width=500&lines=DemonHunter" -->
+<!--  alt="Typing SVG" />-->
+<!--  </a>-->
+<!---->
+
+
+<!--<img-->
+<!--  src="./.img/grim-reaper-clipart-xl.png"-->
+<!--  alt="Grim-reaper-clipart"/>  -->
+<!--</div>-->
+<!---->
+<!--<div align="center">-->
+<!--  <img src="https://profile-counter.glitch.me/VictorH028/count.svg?"  />-->
+<!--</div>-->
+<!---->
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <img
-  src="./.img/grim-reaper-clipart-xl.png"
-  alt="Grim-reaper-clipart"/>  
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VictorH028/count.svg?"  />
-</div>
 
 ![linea](.img/linea.gif)
 

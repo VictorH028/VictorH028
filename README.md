@@ -48,5 +48,5 @@
 </div>
 
 <div  id="header" align="center">
-  <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  sizes="(min-width: 600px) 200px, 50vw" />
 </div>

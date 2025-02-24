@@ -14,7 +14,7 @@
   <a href="Aaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
-  <a href="Aaaa" target="_blank">
+  <a href="t.me/demonr_rip" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a> 
   <a href="aa" target="_blank">

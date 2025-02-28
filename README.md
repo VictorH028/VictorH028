@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
 </div>
@@ -33,5 +37,5 @@
 <div/>
 
 <div  id="header" align="center">
-  <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  sizes="(min-width: 600px) 200px, 50vw" />
+  <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  sizes="(min-width: 600px) 250px, 50vw" />
 </div>

@@ -32,7 +32,7 @@
 <!-- Herramientas y materiales texnologicos -->
 ```mermaid
 graph TD
-    A[Hacker] -->|Get money| B(Go shopping)
+    A[Hacker] -->| Mi camino de aprendizaje | B(Programacion)
     B --> C{Let me think}
     C -->|One| D["Cool <br> Laptop"]
     C -->|Two| E[iPhone]

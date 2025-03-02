@@ -32,8 +32,8 @@
 <!-- Herramientas y materiales texnologicos -->
 ```mermaid
 graph TD
-    A[Hacker] -->| Mi camino de aprendizaje | B(Programacion)
-    B --> C{Let me think}
+    A[Hacker] -->| Mi camino de aprendizaje | 
+    B --> C{Programacion}
     C -->|One| D["Cool <br> Laptop"]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]

@@ -31,7 +31,7 @@
 
 <!-- Herramientas y materiales texnologicos -->
 ```mermaid
-graph TD
+flowchart TD
 A[Como ser un  Hacker] --> B{Fundamentos}
 B --> B1[Lenguajes de Programación C, C++, Python, ASM]
 B --> B2[Arquitectura de Computadoras]

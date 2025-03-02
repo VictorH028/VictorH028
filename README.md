@@ -32,11 +32,53 @@
 <!-- Herramientas y materiales texnologicos -->
 ```mermaid
 graph TD
-    A[Hacker] -->| Mi camino de aprendizaje | 
-    A --> B{Programacion}
-    B -->|One| C["Cool <br> Laptop"]
-    B -->|Two| D[iPhone]
-    B -->|Three| E[fa:fa-car Car]
+    A[Como ser un  Hacker] --> B{Fundamentos}
+    B --> B1[Lenguajes de Programación (C, C++, Python, ASM)]
+    B --> B2[Arquitectura de Computadoras]
+    B --> B3[Sistemas Operativos (Linux, Windows)]
+    B --> B4[Redes y Protocolos (TCP/IP, HTTP, DNS)]
+
+    A --> C{Ingeniería Inversa}
+    C --> C1[Herramientas (Ghidra, IDA Pro, Radare2)]
+    C --> C2[Análisis de Binarios]
+    C --> C3[Desensamblado y Depuración]
+    C --> C4[Ofuscación y Anti-Depuración]
+
+    A --> D{Creación de Exploits}
+    D --> D1[Vulnerabilidades Comunes (Buffer Overflow, SQLi, XSS)]
+    D --> D2[Shellcoding]
+    D --> D3[Explotación de Binarios]
+    D --> D4[ROP (Return-Oriented Programming)]
+
+    A --> E{Seguridad de Sistemas}
+    E --> E1[Análisis de Malware]
+    E --> E2[Forensia Digital]
+    E --> E3[Hardening de Sistemas]
+    E --> E4[Explotación de Kernel]
+
+    A --> F{Herramientas y Entornos}
+    F --> F1[Virtualización (VMware, VirtualBox)]
+    F --> F2[Entornos de Pruebas (Metasploit, Exploit-DB)]
+    F --> F3[Frameworks (Pwntools, Immunity Debugger)]
+    F --> F4[Sistemas de Explotación (Kali Linux, Parrot OS)]
+
+    A --> G{Habilidades Avanzadas}
+    G --> G1[Ingeniería Inversa de Firmware]
+    G --> G2[Explotación de Dispositivos IoT]
+    G --> G3[Análisis de Vulnerabilidades en Hardware]
+    G --> G4[Desarrollo de Exploits para Múltiples Plataformas]
+
+    A --> H{Habilidades Éticas y Legales}
+    H --> H1[Ética en Hacking]
+    H --> H2[Leyes de Ciberseguridad]
+    H --> H3[Responsabilidad en la Investigación]
+    H --> H4[Certificaciones (OSCE, OSCP)]
+
+    A --> I{Práctica Continua}
+    I --> I1[CTFs (Capture The Flag)]
+    I --> I2[Laboratorios de Hacking (Hack The Box, TryHackMe)]
+    I --> I3[Investigación de Vulnerabilidades (CVE)]
+    I --> I4[Contribución a la Comunidad de Seguridad]
 ```
 
 <!--Historia de GitHub-->

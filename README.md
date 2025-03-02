@@ -29,11 +29,19 @@
 
 ![linea](.img/linea.gif)
 
+<!-- Herramientas y materiales texnologicos -->
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
+<!--Historia de GitHub-->
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorH028&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 <div/>
 

@@ -59,7 +59,7 @@ graph TD
     A --> F{Herramientas y Entornos}
     F --> F1[Virtualización VMware, VirtualBox]
     F --> F2[Entornos de Pruebas Metasploit, Exploit-DB]
-    F --> F3[Frameworks (Pwntools, Immunity Debugger)]
+    F --> F3[Frameworks Pwntools, Immunity Debugger]
     F --> F4[Sistemas de Explotación Kali Linux, Parrot OS]
 
     A --> G{Habilidades Avanzadas}
@@ -72,7 +72,7 @@ graph TD
     H --> H1[Ética en Hacking]
     H --> H2[Leyes de Ciberseguridad]
     H --> H3[Responsabilidad en la Investigación]
-    H --> H4[Certificaciones (OSCE, OSCP)]
+    H --> H4[Certificaciones OSCE, OSCP]
 
     A --> I{Práctica Continua}
     I --> I1[CTFs (Capture The Flag)]

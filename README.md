@@ -33,10 +33,10 @@
 ```mermaid
 graph TD
     A[Como ser un  Hacker] --> B{Fundamentos}
-    B --> B1[Lenguajes de Programación (C, C++, Python, ASM)]
+    B --> B1[Lenguajes de Programación C, C++, Python, ASM]
     B --> B2[Arquitectura de Computadoras]
-    B --> B3[Sistemas Operativos (Linux, Windows)]
-    B --> B4[Redes y Protocolos (TCP/IP, HTTP, DNS)]
+    B --> B3[Sistemas Operativos Linux, Windows]
+    B --> B4[Redes y Protocolos TCP/IP, HTTP, DNS]
 
     A --> C{Ingeniería Inversa}
     C --> C1[Herramientas (Ghidra, IDA Pro, Radare2)]
@@ -45,10 +45,10 @@ graph TD
     C --> C4[Ofuscación y Anti-Depuración]
 
     A --> D{Creación de Exploits}
-    D --> D1[Vulnerabilidades Comunes (Buffer Overflow, SQLi, XSS)]
+    D --> D1[Vulnerabilidades Comunes Buffer Overflow, SQLi, XSS]
     D --> D2[Shellcoding]
     D --> D3[Explotación de Binarios]
-    D --> D4[ROP (Return-Oriented Programming)]
+    D --> D4[ROP Return-Oriented Programming]
 
     A --> E{Seguridad de Sistemas}
     E --> E1[Análisis de Malware]
@@ -57,10 +57,10 @@ graph TD
     E --> E4[Explotación de Kernel]
 
     A --> F{Herramientas y Entornos}
-    F --> F1[Virtualización (VMware, VirtualBox)]
-    F --> F2[Entornos de Pruebas (Metasploit, Exploit-DB)]
+    F --> F1[Virtualización VMware, VirtualBox]
+    F --> F2[Entornos de Pruebas Metasploit, Exploit-DB]
     F --> F3[Frameworks (Pwntools, Immunity Debugger)]
-    F --> F4[Sistemas de Explotación (Kali Linux, Parrot OS)]
+    F --> F4[Sistemas de Explotación Kali Linux, Parrot OS]
 
     A --> G{Habilidades Avanzadas}
     G --> G1[Ingeniería Inversa de Firmware]
@@ -76,8 +76,8 @@ graph TD
 
     A --> I{Práctica Continua}
     I --> I1[CTFs (Capture The Flag)]
-    I --> I2[Laboratorios de Hacking (Hack The Box, TryHackMe)]
-    I --> I3[Investigación de Vulnerabilidades (CVE)]
+    I --> I2[Laboratorios de Hacking Hack The Box, TryHackMe]
+    I --> I3[Investigación de Vulnerabilidades CVE]
     I --> I4[Contribución a la Comunidad de Seguridad]
 ```
 

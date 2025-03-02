@@ -39,7 +39,7 @@ graph TD
     B --> B4[Redes y Protocolos TCP/IP, HTTP, DNS]
 
     A --> C{Ingeniería Inversa}
-    C --> C1[Herramientas (Ghidra, IDA Pro, Radare2)]
+    C --> C1[Herramientas Ghidra, IDA Pro, Radare2]
     C --> C2[Análisis de Binarios]
     C --> C3[Desensamblado y Depuración]
     C --> C4[Ofuscación y Anti-Depuración]

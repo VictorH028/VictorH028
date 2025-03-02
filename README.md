@@ -33,10 +33,10 @@
 ```mermaid
 graph TD
     A[Hacker] -->| Mi camino de aprendizaje | 
-    B --> C{Programacion}
-    C -->|One| D["Cool <br> Laptop"]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+    A --> B{Programacion}
+    B -->|One| C["Cool <br> Laptop"]
+    B -->|Two| D[iPhone]
+    B -->|Three| E[fa:fa-car Car]
 ```
 
 <!--Historia de GitHub-->

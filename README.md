@@ -75,7 +75,7 @@ graph TD
     H --> H4[Certificaciones OSCE, OSCP]
 
     A --> I{Práctica Continua}
-    I --> I1[CTFs (Capture The Flag)]
+    I --> I1[CTFs Capture The Flag]
     I --> I2[Laboratorios de Hacking Hack The Box, TryHackMe]
     I --> I3[Investigación de Vulnerabilidades CVE]
     I --> I4[Contribución a la Comunidad de Seguridad]

@@ -42,7 +42,7 @@ B --> B4[Redes y Protocolos TCP/IP, HTTP, DNS]
 <!--Historia de GitHub-->
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorH028&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorH028&theme=cyber-streakglow&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 <div/>
 

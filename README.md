@@ -41,10 +41,9 @@
 
 
 <div align="center">
-![n](https://share.gemini.google/2HBi5mCc8VcT) 
+![n](./.img/17.png) 
 </div>
 
-## `> ROADMAP // HACKER FOUNDATIONS`
 
 ```mermaid
 %%{
@@ -80,7 +79,6 @@ flowchart TD
     style B4 fill:#0d1117,stroke:#00ff41,color:#00ff41
 ```
 
-## `> SYSTEM STATUS`
 
 ```diff
 + [ SYSTEM STATUS ]
@@ -88,7 +86,6 @@ flowchart TD
 @@ 0x00000000 :: trace erased :: connection encrypted :: 0x00ff41 @@
 ```
 
-## `> ACTIVITY // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -102,16 +99,5 @@ flowchart TD
 ![linea](./.img/linea.gif) 
 
 <div align="center">
-
-```bash
-┌──[root@demon]─[~]
-└──╼ $ sudo shutdown -h now
-
-  [✓] Saliendo del sistema...
-  [✓] Conexión cerrada.
-  [✓] Hasta la próxima, operador.
-```
-
-**`0x00FF41 // END OF TRANSMISSION`**
 
 </div>

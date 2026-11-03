@@ -6,26 +6,19 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="DemonHunter — Dark Terminal" width="100%"/>
+<img src="./.img/banner.svg" alt="DemonHunter — Dark Terminal" width="100%"/>
 
 <br/>
 
-```bash
-┌──[root@demon]─[~]
-└──╼ $ ./init_profile.sh --dark --stealth --no-logs
-
-  [+] Anonymous node connected...
-  [+] Identity: DemonHunter
-  [+] Focus: Android · Reverse Engineering · Linux
-  [!] Access level: ROOT
-
-└──╼ $ echo $STATUS
-  >> SYSTEM ONLINE :: ENCRYPTED :: TRACE ERASED
-```
-
 </div>
 
----
+![linea](./.img/linea.gif) 
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
+</div> 
+
+![linea](./.img/linea.gif) 
 
 ## `> CONNECT // SOCIAL NETWORKS`
 
@@ -42,9 +35,6 @@
 </a>
 <a href="https://t.me/demonr_rip" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0d1117" alt="Telegram"/>
-</a>
-<a href="aa" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d1117" alt="WhatsApp"/>
 </a>
 
 </div>
@@ -113,7 +103,7 @@ flowchart TD
 
 </div>
 
----
+![linea](./.img/linea.gif) 
 
 <div align="center">
 

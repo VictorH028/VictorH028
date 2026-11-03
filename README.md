@@ -1,10 +1,22 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DemonHunter&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a0a,100:003300&height=300&section=header&text=DemonHunter&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%24%20root%40demon%3A~%23%20whoami&descAlignY=58&descAlign=50&descSize=20"/>
 </p>
-
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
+</div>
+
+<div align="center">
+
+```bash
+┌──[root@demon]─[~]
+└──╼ $ ./init_profile.sh --dark --stealth --no-logs
+[+] Anonymous node connected...
+[+] Firewall bypassed ✓
+[+] Identity: DemonHunter
+[!] Access level: ROOT
+```
+
 </div>
 
 ![linea](.img/linea.gif)
@@ -29,6 +41,17 @@
 
 ![linea](.img/linea.gif)
 
+<div align="center">
+
+```bash
+# ╔═══════════════════════════════════════════════════════════════╗
+# ║  > Herramientas y materiales tecnológicos                     ║
+# ║  > Cargando módulos del sistema...                            ║
+# ╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <!-- Herramientas y materiales texnologicos -->
 ```mermaid
 flowchart TD
@@ -39,6 +62,16 @@ B --> B3[Sistemas Operativos Linux, Windows]
 B --> B4[Redes y Protocolos TCP/IP, HTTP, DNS]
 ```
 
+<div align="center">
+
+```diff
+- [ SYSTEM STATUS ]
++ [ ROOT ACCESS GRANTED ]
+@@ 0x00000000 :: trace erased :: connection encrypted :: 0x00ff41 @@
+```
+
+</div>
+
 <!--Historia de GitHub-->
 <div align="center">
 
@@ -48,4 +81,14 @@ B --> B4[Redes y Protocolos TCP/IP, HTTP, DNS]
 
 <div  id="header" align="center">
   <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  sizes="(min-width: 1000px) 200px, 50vw" />
+</div>
+
+<div align="center">
+
+```bash
+┌──[root@demon]─[~]
+└──╼ $ sudo shutdown -h now
+[✓] Saliendo del sistema... conexión cerrada.
+```
+
 </div>

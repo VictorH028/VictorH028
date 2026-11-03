@@ -1,94 +1,131 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0a0a,100:003300&height=300&section=header&text=DemonHunter&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%24%20root%40demon%3A~%23%20whoami&descAlignY=58&descAlign=50&descSize=20"/>
-</p>
-
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/5gYjJjeXeLNsSkZQ6k/giphy.gif?cid=6c09b9521f3j2ys8s42e0iwf9b3huoy56ykqbd6e6oum4cgr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
-</div>
+<!--
+  DEMONHUNTER // PROFILE README
+  DARK TERMINAL EDITION
+  Palette: #0d1117 / #00ff41 / #001a0d
+-->
 
 <div align="center">
+
+<img src="./banner.svg" alt="DemonHunter — Dark Terminal" width="100%"/>
+
+<br/>
 
 ```bash
 ┌──[root@demon]─[~]
 └──╼ $ ./init_profile.sh --dark --stealth --no-logs
-[+] Anonymous node connected...
-[+] Firewall bypassed ✓
-[+] Identity: DemonHunter
-[!] Access level: ROOT
+
+  [+] Anonymous node connected...
+  [+] Identity: DemonHunter
+  [+] Focus: Android · Reverse Engineering · Linux
+  [!] Access level: ROOT
+
+└──╼ $ echo $STATUS
+  >> SYSTEM ONLINE :: ENCRYPTED :: TRACE ERASED
 ```
 
 </div>
 
-![linea](.img/linea.gif)
+---
+
+## `> CONNECT // SOCIAL NETWORKS`
 
 <div align="center">
-  <a href="Aaaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@hackcub2090?si=pyQchgOtOjoQM-I5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="Aaaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
-  <a href="https://t.me/demonr_rip" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a> 
-  <a href="aa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+
+<a href="Aaaa" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@hackcub2090" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff41&labelColor=0d1117" alt="YouTube"/>
+</a>
+<a href="Aaaa" target="_blank">
+  <img src="https://img.shields.io/badge/-TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117" alt="TryHackMe"/>
+</a>
+<a href="https://t.me/demonr_rip" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0d1117" alt="Telegram"/>
+</a>
+<a href="aa" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d1117" alt="WhatsApp"/>
+</a>
+
 </div>
 
-![linea](.img/linea.gif)
+## `> LOAD MODULES // TECHNOLOGY & MATERIALS`
 
-<div align="center">
-
-```bash
-# ╔═══════════════════════════════════════════════════════════════╗
-# ║  > Herramientas y materiales tecnológicos                     ║
-# ║  > Cargando módulos del sistema...                            ║
-# ╚═══════════════════════════════════════════════════════════════╝
+```text
+╔═══════════════════════════════════════════════════════════════╗
+║  > HERRAMIENTAS Y MATERIALES TECNOLÓGICOS                     ║
+║  > Cargando módulos del sistema...                            ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+## `> ROADMAP // HACKER FOUNDATIONS`
 
-<!-- Herramientas y materiales texnologicos -->
 ```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#0d1117',
+      'primaryTextColor': '#00ff41',
+      'primaryBorderColor': '#00ff41',
+      'lineColor': '#00ff41',
+      'secondaryColor': '#001a0d',
+      'tertiaryColor': '#000000',
+      'background': '#0d1117',
+      'fontFamily': 'monospace',
+      'clusterBkg': '#0d1117',
+      'clusterBorder': '#00ff41'
+    },
+    'flowchart': { 'curve': 'basis', 'nodeSpacing': 40, 'rankSpacing': 60 }
+  }
+}%%
 flowchart TD
-A[Como ser un  Hacker] --> B{Fundamentos}
-B --> B1[Lenguajes de Programación C, C++, Python, ASM]
-B --> B2[Arquitectura de Computadoras]
-B --> B3[Sistemas Operativos Linux, Windows]
-B --> B4[Redes y Protocolos TCP/IP, HTTP, DNS]
+    A["🖥️ Como ser un Hacker"] --> B{"Fundamentos"}
+    B --> B1["💻 Lenguajes:<br/>C, C++, Python, ASM"]
+    B --> B2["⚙️ Arquitectura<br/>de Computadoras"]
+    B --> B3["🐧 Sistemas Operativos<br/>Linux, Windows"]
+    B --> B4["🌐 Redes y Protocolos<br/>TCP/IP, HTTP, DNS"]
+
+    style A fill:#001a0d,stroke:#00ff41,stroke-width:2px,color:#00ff41
+    style B fill:#000000,stroke:#00ff41,stroke-width:2px,color:#00ff41
+    style B1 fill:#0d1117,stroke:#00ff41,color:#00ff41
+    style B2 fill:#0d1117,stroke:#00ff41,color:#00ff41
+    style B3 fill:#0d1117,stroke:#00ff41,color:#00ff41
+    style B4 fill:#0d1117,stroke:#00ff41,color:#00ff41
 ```
 
-<div align="center">
+## `> SYSTEM STATUS`
 
 ```diff
-- [ SYSTEM STATUS ]
++ [ SYSTEM STATUS ]
 + [ ROOT ACCESS GRANTED ]
 @@ 0x00000000 :: trace erased :: connection encrypted :: 0x00ff41 @@
 ```
 
-</div>
+## `> ACTIVITY // GITHUB ANALYTICS`
 
-<!--Historia de GitHub-->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorH028&theme=cyber-streakglow&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=DemonHunter&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=DemonHunter&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" alt="GitHub Streak" width="49%"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonHunter&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41" alt="Top Languages"/>
 
-<div/>
-
-<div  id="header" align="center">
-  <img src="https://media0.giphy.com/media/WE066ErCk0Z91fLgaJ/giphy.gif?cid=6c09b952iqkbyezxgidbransp35qw4j6dnadxu783fkr9i9l&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  sizes="(min-width: 1000px) 200px, 50vw" />
 </div>
+
+---
 
 <div align="center">
 
 ```bash
 ┌──[root@demon]─[~]
 └──╼ $ sudo shutdown -h now
-[✓] Saliendo del sistema... conexión cerrada.
+
+  [✓] Saliendo del sistema...
+  [✓] Conexión cerrada.
+  [✓] Hasta la próxima, operador.
 ```
+
+**`0x00FF41 // END OF TRANSMISSION`**
 
 </div>

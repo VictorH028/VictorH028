@@ -39,14 +39,10 @@
 
 </div>
 
-## `> LOAD MODULES // TECHNOLOGY & MATERIALS`
 
-```text
-╔═══════════════════════════════════════════════════════════════╗
-║  > HERRAMIENTAS Y MATERIALES TECNOLÓGICOS                     ║
-║  > Cargando módulos del sistema...                            ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+![n](https://share.gemini.google/2HBi5mCc8VcT) 
+</div>
 
 ## `> ROADMAP // HACKER FOUNDATIONS`
 

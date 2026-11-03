@@ -40,9 +40,9 @@
 </div>
 
 
-<div align="center">
-![n](./.img/17.png) 
-</div>
+
+![Hol](./.img/17.png) 
+
 
 
 ```mermaid
@@ -85,14 +85,14 @@ flowchart TD
 + [ ROOT ACCESS GRANTED ]
 @@ 0x00000000 :: trace erased :: connection encrypted :: 0x00ff41 @@
 ```
-
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DemonHunter&show_icons=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=DemonHunter&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" alt="GitHub Streak" width="49%"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonHunter&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorH028&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=%3E%24%20root%40demon%3A~%23%20stats" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=VictorH028&background=0d1117&border=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&hide_border=true&card_width=495" height="180em"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH028&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=00ff41&hide_border=true&langs_count=10&card_width=800" height="180em"/>
 
 </div>
 

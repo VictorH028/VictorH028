@@ -43,11 +43,6 @@
 </div>
 
 
-
-![Hol](./.img/17.png) 
-
-
-
 ```mermaid
 %%{
   init: {
@@ -80,13 +75,6 @@ flowchart TD
     style B2 fill:#0d1117,stroke:#00ff41,color:#00ff41
     style B3 fill:#0d1117,stroke:#00ff41,color:#00ff41
     style B4 fill:#0d1117,stroke:#00ff41,color:#00ff41
-```
-
-
-```diff
-+ [ SYSTEM STATUS ]
-+ [ ROOT ACCESS GRANTED ]
-@@ 0x00000000 :: trace erased :: connection encrypted :: 0x00ff41 @@
 ```
 
 <div align="center">

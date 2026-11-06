@@ -87,6 +87,14 @@ flowchart TD
 
 <div align="center">
 
+![linea](./.img/Zero_two_dance.gif) 
+
+</div>
+
+</div>
+
+<div align="center">
+
 ![linea](./.img/green-fire.gif) 
 
 </div>
